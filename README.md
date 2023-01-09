@@ -1,1 +1,1 @@
-[Certificate](media/certificate.png)
+![Certificate](media/certificate.png)
